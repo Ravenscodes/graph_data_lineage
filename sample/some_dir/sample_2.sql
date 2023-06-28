@@ -1,5 +1,5 @@
 /*
-@Input: 'table_1'
+@Input: 'table_5'
 @Input: 'table_4'
 @Output: 'table_6'
 @EtlURL: 'some_href_2'
